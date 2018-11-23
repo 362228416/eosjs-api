@@ -1,4 +1,4 @@
-require('isomorphic-fetch')
+// require('isomorphic-fetch')
 const camelCase = require('camel-case')
 const helpers = require('./exported-helpers')
 const processArgs = require('./process-args')
